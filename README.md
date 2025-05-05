@@ -53,7 +53,7 @@ The project is organized into four major components contributed by each team mem
 ## How to Run
 
 Clone the Repository:  
-`git clone https://github.com/<your-org-or-username>/job-skills-trend-analysis.git`  
+`git clone https://github.com/guppynib/group1-finalproject-05072025/tree/main`  
 `cd job-skills-trend-analysis`
 
 1. Set Up the Environment:
